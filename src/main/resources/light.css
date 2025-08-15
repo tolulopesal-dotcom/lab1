@@ -1,0 +1,9 @@
+.root {
+    -fx-base: #f6f6f9;
+    -fx-background: #ffffff;
+    -fx-control-inner-background: white;
+    -fx-text-fill: #222;
+}
+.label { -fx-text-fill: #222; }
+.button { -fx-background-radius: 8; }
+.tab-pane .tab-header-area { -fx-background-color: #ececf3; }
