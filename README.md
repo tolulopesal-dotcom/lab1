@@ -1,5 +1,5 @@
-
-A JavaFX application built as part of the JavaFX Basics Lab.  
+README FILE
+A JavaFX application built as part of the JavaFX ITEC627 Lab.  
 It demonstrates layouts, graphics with property binding, image/font usage, and a reusable clock widget.
 
  Features
